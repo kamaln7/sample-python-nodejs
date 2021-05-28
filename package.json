@@ -1,0 +1,14 @@
+{
+  "name": "sample-python-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "cowsay 'pythoOon noOOode.js' > message.txt"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
